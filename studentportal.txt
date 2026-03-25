@@ -3,3 +3,4 @@ Course:BSC-CS
 Section:BSC-B
 College:Kakinada Aditya degree college,Srikakulam
 Attendence:91%
+https://github.com/harshini08-maruvada/student-portal-demo/edit/main/studentportal.txt
